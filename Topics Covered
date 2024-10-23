@@ -1,1 +1,14 @@
-
+Topics Covered:
+Pointer Types, Pointer Arithmetic, Void Pointers – Covered in low-level problem 1, 2.
+Pointers to Pointers in C/C++ – Low-level problem 4, high-level problem 1.
+Pointers as Function Arguments - Call by Reference – Low-level problem 3, medium-level problem 2.
+Pointers and Arrays – Medium-level problems 3, 5.
+Arrays as Function Arguments – Medium-level problem 2.
+Character Arrays and Pointers – Medium-level problem 3, 5.
+Pointers and 2-D Arrays – High-level problem 1.
+Pointers and Multidimensional Arrays – Partially covered in high-level problem 1.
+Pointers and Dynamic Memory - Stack vs Heap – Medium-level problem 1, high-level problem 3.
+Dynamic Memory Allocation in C – Medium-level problem 1, high-level problem 5.
+Pointers as Function Returns – High-level problem 3.
+Function Pointers and Callbacks – High-level problems 2, 4.
+Memory Leak in C/C++ – High-level problem 5.
