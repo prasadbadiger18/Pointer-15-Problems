@@ -1,1 +1,9 @@
 
+                ------------Low-Level Pointer Problems:---------------
+
+
+1.Pointer Basics: Write a program to declare an integer, assign a value, and print the value using both the variable and a pointer.
+2.Pointer Arithmetic: Create a program to demonstrate how pointer arithmetic works with arrays (e.g., print elements of an array using pointer increment).
+3.Swapping Values: Write a function using pointers to swap two integers.
+4.Pointer to Pointer: Declare an integer, a pointer to it, and a pointer to the pointer. Use them to print the value.
+5.Null Pointer: Write a program that declares a pointer, assigns it to NULL, and checks for the null condition before dereferencing.
