@@ -1,1 +1,20 @@
+--------------------Medium-Level Pointer Problems:-----------------
 
+
+1.Dynamic Memory Allocation: Allocate an array of integers dynamically using malloc and free the memory after use.
+2.Passing Pointers to Functions: Write a function that accepts a pointer to an array and calculates the sum of its elements.
+3.Pointer Arrays: Implement a program where an array of strings is stored and printed using an array of pointers.
+4.Pointer to Structure: Create a structure for a Student and use a pointer to access and modify its fields.
+5.String Manipulation: Write a function that takes a string as a pointer and reverses the string in-place.
+
+-------------Here's a breakdown of which topics are covered by the problems:-------------------
+
+Dynamic Memory Allocation – Problem 1 (Pointers and Dynamic Memory, Stack vs Heap, Malloc/Calloc/Free)
+
+Passing Pointers to Functions – Problem 2 (Pointers as Function Arguments, Arrays as Function Arguments)
+
+Pointer Arrays – Problem 3 (Pointers and Arrays, Character Arrays and Pointers)
+
+Pointer to Structure – Problem 4 (Pointers to Structures)
+
+String Manipulation – Problem 5 (Character Arrays and Pointers)
