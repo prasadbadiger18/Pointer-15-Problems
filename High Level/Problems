@@ -1,1 +1,21 @@
 
+------------------High-Level Pointer Problems:----------------------
+
+1.Double Pointer (2D Array): Implement a 2D array using dynamic memory allocation and a pointer-to-pointer (i.e., a double pointer).
+2.Function Pointers: Write a program that defines a few mathematical operations and uses a function pointer to choose the operation at runtime.
+3.Linked List Operations: Implement a simple linked list (insertion, deletion, traversal) using pointers.
+4.Pointer to Function in Structure: Define a structure that holds a pointer to a function. Write a program to assign a function to this pointer and invoke it.
+5.Memory Leak Detection: Write a program that intentionally causes a memory leak. Then, modify it to ensure proper memory management by freeing all allocated memory.
+
+
+--------------------Here's a breakdown of which topics are covered by the problems:------------------------
+
+Double Pointer (2D Array) – Problem 1 (Pointers and 2D Arrays, Pointers to Pointers)
+
+Function Pointers – Problem 2 (Function Pointers, Callbacks)
+
+Linked List Operations – Problem 3 (Dynamic Memory Allocation, Pointers as Function Returns)
+
+Pointer to Function in Structure – Problem 4 (Function Pointers)
+
+Memory Leak Detection – Problem 5 (Memory Leak, Dynamic Memory Allocation)
